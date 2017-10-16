@@ -1,0 +1,18 @@
+body {
+  background: rgb(238, 227, 199);
+}
+
+h1, h2, h3, h4 {
+  color: rgb(0, 79, 48);
+}
+
+.just_green_line {
+  border: 2px solid rgb(0, 79, 48);
+  margin: 10px 0;
+}
+
+.logo {
+  height: 30%;
+  width: 30%;
+
+}
